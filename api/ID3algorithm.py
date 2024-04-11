@@ -77,7 +77,7 @@ def build_decision_tree(df, tree=None):
     return tree
 
 
-def classify_instance(test, tree, default=None):
+def classify_instance(test, tree, default=2):
     attribute = next(iter(tree))
     if test[attribute] in tree[attribute].keys():
         result = tree[attribute][test[attribute]]

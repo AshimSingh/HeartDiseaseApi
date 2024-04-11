@@ -1,4 +1,4 @@
-Age,Sex,Chest pain type,BP,Cholesterol,FBS over 120,EKG results,Max HR,Exercise angina,ST depression,Slope of ST,Number of vessels fluro,Thallium,Heart_Disease
+Age,Sex,chest_pain_type,BP,Cholesterol,FBS over 120,EKG results,Max HR,Exercise angina,ST depression,Slope of ST,Number of vessels fluro,Thallium,Heart_Disease
 70,1,4,130,322,0,2,109,0,2.4,2,3,3,1
 67,0,3,115,564,0,2,160,0,1.6,2,0,7,0
 57,1,2,124,261,0,0,141,0,0.3,1,0,7,1
